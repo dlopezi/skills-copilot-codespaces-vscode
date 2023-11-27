@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. Handle requests for /comments
 // 2. Read the comments.json file
 // 3. Respond with the contents of the file
